@@ -2,8 +2,8 @@
 Im tired of absence of ytb channel management, so im creating this repo for holding list of all my subscribed channels
 
 ## Music as is / Music Labels
-Gondwana Records - http://www.youtube.com/@gondwanarecords
-KEXP - http://www.youtube.com/@kexp
+Gondwana Records - http://www.youtube.com/@gondwanarecords  
+KEXP - http://www.youtube.com/@kexp  
 Jazz Is Dead - http://www.youtube.com/@JazzIsDead
 Late Night Tales - http://www.youtube.com/@LateNightTalesOfficial
 Jazzn't Lost - http://www.youtube.com/@jazzntlost4270
@@ -232,7 +232,7 @@ bradthx	https://www.youtube.com/@bradthx
 Captain Pikant	https://www.youtube.com/@CaptainPikant
 casperelectronics synthesizers	https://www.youtube.com/@bubagoo
 Comparative Irrelevance	https://www.youtube.com/@ComparativeIrrelevance
-Cosmic FuzzFm	https://www.youtube.com/@CosmicFuzzFM
+Cosmic FuzzFm	https://www.youtube.com/@CosmicFuzzFM  
 debuglive	https://www.youtube.com/@CTRIX64
 Derrick Evans 	https://www.youtube.com/@Derrick_Evans
 Digging The Greats	https://www.youtube.com/@diggingthegreats
